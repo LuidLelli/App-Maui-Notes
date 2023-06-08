@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Notes
+build_property.ProjectDir = D:\Luid\NotesTutorial\Notes\
+
+[D:/Luid/NotesTutorial/Notes/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Luid/NotesTutorial/Notes/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Luid/NotesTutorial/Notes/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Luid/NotesTutorial/Notes/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Luid/NotesTutorial/Notes/Views/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AboutPage.xaml
+
+[D:/Luid/NotesTutorial/Notes/Views/AllNotesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.AllNotesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllNotesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllNotesPage.xaml
+
+[D:/Luid/NotesTutorial/Notes/Views/NotePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.NotePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NotePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NotePage.xaml
+
+[D:/Luid/NotesTutorial/Notes/Shared/MainLayout.razor.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.Shared.MainLayout.razor.css
+build_metadata.AdditionalFiles.TargetPath = Shared\MainLayout.razor.css
+build_metadata.AdditionalFiles.RelativePath = Shared\MainLayout.razor.css
+
+[D:/Luid/NotesTutorial/Notes/Shared/NavMenu.razor.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.Shared.NavMenu.razor.css
+build_metadata.AdditionalFiles.TargetPath = Shared\NavMenu.razor.css
+build_metadata.AdditionalFiles.RelativePath = Shared\NavMenu.razor.css
+
+[D:/Luid/NotesTutorial/Notes/wwwroot/css/app.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.wwwroot.css.app.css
+build_metadata.AdditionalFiles.TargetPath = wwwroot\css\app.css
+build_metadata.AdditionalFiles.RelativePath = wwwroot\css\app.css
+
+[D:/Luid/NotesTutorial/Notes/wwwroot/css/bootstrap/bootstrap.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.wwwroot.css.bootstrap.bootstrap.min.css
+build_metadata.AdditionalFiles.TargetPath = wwwroot\css\bootstrap\bootstrap.min.css
+build_metadata.AdditionalFiles.RelativePath = wwwroot\css\bootstrap\bootstrap.min.css
+
+[D:/Luid/NotesTutorial/Notes/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.wwwroot.css.open_iconic.font.css.open-iconic-bootstrap.min.css
+build_metadata.AdditionalFiles.TargetPath = wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+build_metadata.AdditionalFiles.RelativePath = wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
